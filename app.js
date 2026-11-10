@@ -1,0 +1,1 @@
+console.log("Môi trường Node.js đã chạy thành công trong VS Code!");
